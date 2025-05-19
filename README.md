@@ -1,2 +1,1 @@
-# fotomatic
-
+<video controls src="2025-05-20 00-03-36 - Trim-1.mp4" title="Title"></video>
